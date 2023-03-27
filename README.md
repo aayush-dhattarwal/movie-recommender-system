@@ -4,6 +4,7 @@ This movie recommender system is a collaborative filtering-based system that uti
 # Screenshots
 ![chrome_0FxzEVs1r6](https://user-images.githubusercontent.com/29508011/227937814-bd42cf32-e8b5-4332-94e0-ab73911e46a8.png)
 ![chrome_PDylhw0Vck](https://user-images.githubusercontent.com/29508011/227937823-cf9ba8e0-8bcf-4098-94ae-f2e3c54f2147.png)
+![chrome_lEkEWOutHa](https://user-images.githubusercontent.com/29508011/227951924-5b54579f-2edf-4c04-871e-dd06df7416b0.png)
 ![chrome_y7scznF4dk](https://user-images.githubusercontent.com/29508011/227937855-72f48f53-7873-492e-a536-39829590a125.png)
 
 # Tech Stack
