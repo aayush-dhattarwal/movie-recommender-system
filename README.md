@@ -1,5 +1,8 @@
 # movie-recommender-system
-This movie recommender system is a collaborative filtering-based system that utilizes cosine similarity scores to recommend movies. It is built using the TMDB dataset and is accessible through a Streamlit framework. The app provides personalized recommendations based on user ratings and reviews, as well as similarities between other users' viewing habits.
+This movie recommender system is a collaborative filtering-based system that utilizes cosine similarity scores to recommend movies. It is built using the TMDB 5000 Movie dataset and is accessible through a Streamlit framework. The app provides personalized recommendations based on user ratings and reviews, as well as similarities between other users' viewing habits.
+
+# Dataset
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 # Screenshots
 ![chrome_0FxzEVs1r6](https://user-images.githubusercontent.com/29508011/227937814-bd42cf32-e8b5-4332-94e0-ab73911e46a8.png)
